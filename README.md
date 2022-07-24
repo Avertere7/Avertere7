@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-My name is Sebastian Tarnosch and I'm a software developer. I'm from Poland, currently working at Jabil.
-
+My name is Sebastian Tarnosch and I'm a software developer
 
 
 ## &#x1f4c8; GitHub Stats
